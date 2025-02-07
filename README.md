@@ -4,6 +4,8 @@ A cosy game where you mix drinks at a bar for customers. Simple!
 
 ## Usage
 Use the mouse to select ingredients for your drink based on the customer's request. There is an in-game recipe book to teach you how to create the drinks!
+![main-game](https://github.com/user-attachments/assets/a4617791-c116-4bca-bfcc-19642c006c9d)
+![finished-mojito-drink](https://github.com/user-attachments/assets/0217226e-491f-4d16-bd33-91923aa32b8b)
 
 ## Purpose
 My 2nd year university project was to create an indie game. I was inspired by an event from [Genshin Impact](https://youtu.be/KPjtkhWGYQ0?t=10), [Coffee Talk](https://store.steampowered.com/app/914800/Coffee_Talk/), and old flash games where you have to cook food for a customer.
